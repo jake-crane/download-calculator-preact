@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": 1630729456143,
+    "files": [
+      {
+        "filename": "ssr-build/ssr-bundle.d98fc.css",
+        "previous": 24622,
+        "size": 0,
+        "diff": -24622
+      },
+      {
+        "filename": "ssr-build/ssr-bundle.js",
+        "previous": 8310,
+        "size": 0,
+        "diff": -8310
+      },
+      {
+        "filename": "bundle.d98fc.css",
+        "previous": 0,
+        "size": 24873,
+        "diff": 24873
+      },
+      {
+        "filename": "bundle.*****.esm.js",
+        "previous": 0,
+        "size": 12015,
+        "diff": 12015
+      },
+      {
+        "filename": "polyfills.*****.esm.js",
+        "previous": 0,
+        "size": 2179,
+        "diff": 2179
+      },
+      { "filename": "sw-esm.js", "previous": 0, "size": 9541, "diff": 9541 },
+      {
+        "filename": "bundle.4ca96.js",
+        "previous": 0,
+        "size": 11980,
+        "diff": 11980
+      },
+      {
+        "filename": "polyfills.2c4a5.js",
+        "previous": 0,
+        "size": 2177,
+        "diff": 2177
+      },
+      { "filename": "index.html", "previous": 0, "size": 2960, "diff": 2960 },
+      { "filename": "200.html", "previous": 0, "size": 1486, "diff": 1486 }
+    ]
+  }
+]

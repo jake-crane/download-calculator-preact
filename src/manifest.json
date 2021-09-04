@@ -1,6 +1,6 @@
 {
-  "name": "download-calculator-preact",
-  "short_name": "download-calculator-preact",
+  "name": "Download Calculator",
+  "short_name": "Download Calculator",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
